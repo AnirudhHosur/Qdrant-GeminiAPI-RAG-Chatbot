@@ -1,0 +1,10 @@
+langchain
+langchain-community
+langchain-openai
+qdrant-client
+pypdf
+langchain-qdrant
+sentence-transformers
+anthropic
+google-generativeai
+python-dotenv
